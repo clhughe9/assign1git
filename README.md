@@ -2,5 +2,4 @@
 Cody Hughes (clhughe9)
 
 First comment
-
-This i s a change on newbranch
+This is a comment on new branch
